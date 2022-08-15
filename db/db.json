@@ -1,6 +1,26 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "First note",
+        "text": "Example of this working note adding. ",
+        "note_id": "0ec321d0-a293-499b-b16e-54119a62c974"
+    },
+    {
+        "title": "My working note taker",
+        "text": "Example of entering text. Saving text.",
+        "note_id": "441ab250-8610-464c-9b1c-888922610bfd"
+    },
+    {
+        "title": "Example",
+        "text": "Working note taker. Adding message here.",
+        "note_id": "2f07814c-d2d6-4e1f-be81-7f6944db8891"
+    },
+    {
+        "title": "Example",
+        "text": "Taking an example note here.",
+        "note_id": "0c60677a-3408-4db1-9572-0027936b5491"
     }
 ]
