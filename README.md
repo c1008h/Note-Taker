@@ -18,6 +18,7 @@ This application allows users to take notes on multiple pages. Each note has a t
   - [Contact](#contact)
 
 ## Instructions
+![Untitled_ Aug 15, 2022 12_10 AM](https://user-images.githubusercontent.com/102135325/184592192-20de3185-bc7b-46c2-9047-4745667ddd0f.gif)
 
 ### Installation
 Use this command line to clone this repo before running the program:
